@@ -20,12 +20,12 @@ Most images are clickable and will take you to the specific project
 <summary><b>Elon Musk Messages</b></summary>
 Elon's text messages from the Court of Chancery’s release
 
-<a href="https://jusgu.github.io/elon-musks-texts/"><img src="https://i.imgur.com/j4rgONL.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/elon-musks-texts/"><img src="https://i.imgur.com/j4rgONL.png"></a>
 </details>
 <details>
 <summary><b>Navigatr</b></summary>
 Navigatr allows users to request real-time information (weather, transit times, restaurant locations) through text messaging
-<a href="https://github.com/JusGu/sms_app"><img src="https://i.imgur.com/FTDJdxy.png" width="45%" height="45%"></a>
+<a href="https://github.com/JusGu/sms_app"><img src="https://i.imgur.com/FTDJdxy.png"></a>
 </details>
 
 ### Still Interesting
@@ -41,14 +41,14 @@ Library is a great website for keeping track of all the books you've read! Plus,
 <summary><b>Etch-a-Sketch</b></summary>
 A simple online gridded drawing canvas with adjustable grid size. Plus, this was completely made using just HTML, CSS and JavaScript!
 
-<a href="https://jusgu.github.io/etch-a-sketch"><img src="https://i.imgur.com/G7mpquZ.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/etch-a-sketch"><img src="https://i.imgur.com/G7mpquZ.png"></a>
 
 </details>
 <details>
 <summary><b>Pi-vis</b></summary>
 Website that visualizes the approximation of PI using the Monte Carlo method.
 
-<a href="https://jusgu.github.io/pi-vis"><img src="https://i.imgur.com/Mv91ra1.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/pi-vis"><img src="https://i.imgur.com/Mv91ra1.png"></a>
 
 </details>
 <details>
@@ -64,32 +64,32 @@ FANSYNC connects and coordinates fans from around a stadium by displaying intric
 <summary><b>Drum Kit</b></summary>
 Keyboard controlled online drum soundboard.
 
-<a href="https://jusgu.github.io/drumkit/"><img src="https://i.imgur.com/f2e8Do8.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/drumkit/"><img src="https://i.imgur.com/f2e8Do8.png"></a>
 </details>
 <details>
 <summary><b>Calculator</b></summary>
 A simple online calculator.
 
-<a href="https://jusgu.github.io/calculator"><img src="https://i.imgur.com/3HzNF9G.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/calculator"><img src="https://i.imgur.com/3HzNF9G.png" ></a>
 </details>
 <details>
 <summary><b>Tic-Tac-Toe</b></summary>
 Play Tic Tac Toe with a friend on the browser!
 
-<a href="https://jusgu.github.io/tic-tac-toe/"><img src="https://i.imgur.com/1xbD92G.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/tic-tac-toe/"><img src="https://i.imgur.com/1xbD92G.png" ></a>
 </details>
 </details>
 <details>
 <summary><b>Rock Paper Scissors</b></summary>
 Play rock paper scissors against the computer up to a round of 5.
 
-<a href="https://jusgu.github.io/rock-paper-scissors/"><img src="https://i.imgur.com/4OJW2ZI.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/rock-paper-scissors/"><img src="https://i.imgur.com/4OJW2ZI.png" ></a>
 </details>
 <details>
 <summary><b>Restaurant</b></summary>
 A mock restaurant page that supports tabbed browsing to access About, Menu and Contact page.
 
-<a href="https://jusgu.github.io/restaurant/"><img src="https://i.imgur.com/YLSvjsV.png" width="45%" height="45%"></a>
+<a href="https://jusgu.github.io/restaurant/"><img src="https://i.imgur.com/YLSvjsV.png" ></a>
 </details>
 
 
