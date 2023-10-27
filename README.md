@@ -1,7 +1,7 @@
 # Hey there, I'm Justin Gu
 
 Computer Science @ [UWaterloo](https://uwaterloo.ca/);<br>
-Full Stack Dev @ [Medflo](https://www.medflo.io/);<br>
+Full Stack Dev @ [Care Better](https://www.carebetter.com/);<br>
 I like: 
 [💻](https://github.com/JusGu)
 [🎨](https://www.malikafavre.com/)
