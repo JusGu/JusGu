@@ -1,15 +1,16 @@
 # Hey there, I'm Justin Gu
 
 Computer Science @ [UWaterloo](https://uwaterloo.ca/);<br>
-Full Stack Dev @ [Care Better](https://www.carebetter.com/);<br>
-I like: 
+Working on [UWClubs](https://www.uwclubs.com/);<br>
+Prev Software @ [Care Better](https://www.carebetter.com/); @ [TD](https://www.td.com/ca/en/asset-management/);<br>
+Interests: 
 [💻](https://github.com/JusGu)
 [🎨](https://www.malikafavre.com/)
 [🏎](https://www.ferrari.com/en-EN/formula1)
 [🎿](https://en.wikipedia.org/wiki/Skiing)
 [🚶‍](https://en.wikipedia.org/wiki/Hiking);<br>
-I don't like: 
-[🥭](https://www.realfruitbubbletea.com/)
+Disinterests: 
+[🥭](https://www.realfruitbubbletea.com/);
 
 ## My Projects
 
