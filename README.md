@@ -18,11 +18,17 @@ Most images are clickable and will take you to the specific project
 
 ### My Favourites
 <details>
+<summary><b>UWClubs</b></summary>
+UWClubs brings together clubs across Waterloo to create a centralized place for students to find events.
+<a href="https://uwclubs.com/"><img src="https://i.imgur.com/u8tQXI7.png"></a>
+</details>
+
+<details>
 <summary><b>Elon Musk Messages</b></summary>
 Elon's text messages from the Court of Chancery’s release
-
 <a href="https://jusgu.github.io/elon-musks-texts/"><img src="https://i.imgur.com/j4rgONL.png"></a>
 </details>
+
 <details>
 <summary><b>Navigatr</b></summary>
 Navigatr allows users to request real-time information (weather, transit times, restaurant locations) through text messaging
