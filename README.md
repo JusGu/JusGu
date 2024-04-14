@@ -25,8 +25,28 @@ UWClubs brings together clubs across Waterloo to create a centralized place for 
 
 <details>
 <summary><b>Elon Musk Messages</b></summary>
-Elon's text messages from the Court of Chancery’s release
+Elon's text messages from the Court of Chancery’s release.
 <a href="https://jusgu.github.io/elon-musks-texts/"><img src="https://i.imgur.com/j4rgONL.png"></a>
+</details>
+
+<details>
+<summary><b>Etch-a-Sketch</b></summary>
+A simple online gridded drawing canvas with adjustable grid size. Plus, this was completely made using just HTML, CSS and JavaScript!
+<a href="https://jusgu.github.io/etch-a-sketch"><img src="https://i.imgur.com/G7mpquZ.png"></a>
+</details>
+
+### Still Interesting
+
+<details>
+<summary><b>Library</b></summary>
+Library is a great website for keeping track of all the books you've read! Plus, Library also works well on mobile! Plus, this was completely made using just HTML, CSS and JavaScript!
+<a href="https://jusgu.github.io/library"><img src="https://i.imgur.com/hRd8CCS.png"></a>
+</details>
+
+<details>
+<summary><b>Pi-vis</b></summary>
+Website that visualizes the approximation of PI using the Monte Carlo method.
+<a href="https://jusgu.github.io/pi-vis"><img src="https://i.imgur.com/Mv91ra1.png"></a>
 </details>
 
 <details>
@@ -35,29 +55,6 @@ Navigatr allows users to request real-time information (weather, transit times, 
 <a href="https://github.com/JusGu/sms_app"><img src="https://i.imgur.com/FTDJdxy.png"></a>
 </details>
 
-### Still Interesting
-
-<details>
-<summary><b>Library</b></summary>
-Library is a great website for keeping track of all the books you've read! Plus, Library also works well on mobile! Plus, this was completely made using just HTML, CSS and JavaScript!
-
-<a href="https://jusgu.github.io/library"><img src="https://i.imgur.com/hRd8CCS.png"></a>
-
-</details>
-<details>
-<summary><b>Etch-a-Sketch</b></summary>
-A simple online gridded drawing canvas with adjustable grid size. Plus, this was completely made using just HTML, CSS and JavaScript!
-
-<a href="https://jusgu.github.io/etch-a-sketch"><img src="https://i.imgur.com/G7mpquZ.png"></a>
-
-</details>
-<details>
-<summary><b>Pi-vis</b></summary>
-Website that visualizes the approximation of PI using the Monte Carlo method.
-
-<a href="https://jusgu.github.io/pi-vis"><img src="https://i.imgur.com/Mv91ra1.png"></a>
-
-</details>
 <details>
 <summary><b>FanSync</b></summary>
 FANSYNC connects and coordinates fans from around a stadium by displaying intricate graphics on a user's phone. It's software to transform any video into custom defined dimensions and display them on individual devices.
