@@ -1,20 +1,26 @@
-# Hey there, I'm Justin Gu
+# Welcome! I'm Justin.
 
-Computer Science @ [UWaterloo](https://uwaterloo.ca/);<br>
-Working on [UWClubs](https://www.uwclubs.com/);<br>
-Prev Software @ [Care Better](https://www.carebetter.com/); @ [TD](https://www.td.com/ca/en/asset-management/);<br>
-Interests: 
-[💻](https://github.com/JusGu)
+About me: [justingu.ca](https://justingu.ca/)
+
+## Currently...
+Studying Computer Science @ [UWaterloo](https://uwaterloo.ca/)<br>
+Working on [UWClubs](https://www.uwclubs.com/)<br>
+Interested in [💻](https://github.com/JusGu)
 [🎨](https://www.malikafavre.com/)
 [🏎](https://www.ferrari.com/en-EN/formula1)
 [🎿](https://en.wikipedia.org/wiki/Skiing)
-[🚶‍](https://en.wikipedia.org/wiki/Hiking);<br>
-Disinterests: 
-[🥭](https://www.realfruitbubbletea.com/);
+[🚶‍](https://en.wikipedia.org/wiki/Hiking)<br>
+Not interested in 
+[🥭](https://www.realfruitbubbletea.com/)
 
-## My Projects
+## Previously...
+Software Developer @ [Care Better](https://www.carebetter.com/)<br>
+Portfolio Analytics Developer @ [TDAM](https://www.td.com/ca/en/asset-management/)<br>
+[show more](https://justingu.ca/resume.pdf)
 
-Most images are clickable and will take you to the specific project
+## Personal Projects
+
+Note: Most images are clickable and will take you to the specific project
 
 ### My Favourites
 <details>
