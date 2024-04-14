@@ -25,7 +25,7 @@ UWClubs brings together clubs across Waterloo to create a centralized place for 
 
 <details>
 <summary><b>Elon Musk Messages</b></summary>
-Elon's text messages from the Court of Chancery’s release.
+Elon's text messages from the Court of Chancery’s release. 47k unique visitors and 600k reddit impressions!
 <a href="https://jusgu.github.io/elon-musks-texts/"><img src="https://i.imgur.com/j4rgONL.png"></a>
 </details>
 
