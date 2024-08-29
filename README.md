@@ -15,7 +15,7 @@ Not interested in
 
 ## Previously...
 Software Engineering Intern @ [Roo](https://www.roo.vet/)<br>
-Software Developer @ [Care Better](https://web.archive.org/web/20240416233400/https://carebetter.com/)<br>
+Software Engineering Intern @ [Care Better](https://web.archive.org/web/20240416233400/https://carebetter.com/)<br>
 Portfolio Analytics Developer @ [TDAM](https://www.td.com/ca/en/asset-management/)<br>
 [show more](https://justingu.ca/resume.pdf)
 
