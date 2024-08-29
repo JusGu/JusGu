@@ -3,9 +3,8 @@
 About me: [justingu.ca](https://justingu.ca/)
 
 ## Currently...
-Software Engineering Intern @ [Roo](https://www.roo.vet/)<br>
+Software Engineering @ [Maxima](https://maximahq.com/)<br>
 Studying Computer Science @ [UWaterloo](https://uwaterloo.ca/)<br>
-Working on [UWClubs](https://www.uwclubs.com/)<br>
 Interested in [💻](https://github.com/JusGu)
 [🎨](https://www.malikafavre.com/)
 [🏎](https://www.ferrari.com/en-EN/formula1)
@@ -15,6 +14,7 @@ Not interested in
 [🥭](https://www.realfruitbubbletea.com/)
 
 ## Previously...
+Software Engineering Intern @ [Roo](https://www.roo.vet/)<br>
 Software Developer @ [Care Better](https://web.archive.org/web/20240416233400/https://carebetter.com/)<br>
 Portfolio Analytics Developer @ [TDAM](https://www.td.com/ca/en/asset-management/)<br>
 [show more](https://justingu.ca/resume.pdf)
