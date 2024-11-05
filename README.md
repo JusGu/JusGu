@@ -1,6 +1,6 @@
 # Welcome! I'm Justin.
 
-About me: [justingu.ca](https://justingu.ca/)
+About me: [justin.run](https://justin.run)
 
 ## Currently...
 Software Engineering @ [Stealth](https://www.kleinerperkins.com/)<br>
