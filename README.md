@@ -3,7 +3,7 @@
 About me: [justin.run](https://justin.run)
 
 ## Currently...
-Software Engineering @ Stealth
+Founding Engineer @ Stealth<br>
 Studying Computer Science @ [UWaterloo](https://uwaterloo.ca/)<br>
 Interested in [💻](https://github.com/JusGu)
 [🎨](https://www.malikafavre.com/)
